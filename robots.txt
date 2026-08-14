@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://consultancyresearch.com/sitemap.xml
+Sitemap: https://consultancyresearchintl.com/sitemap.xml
